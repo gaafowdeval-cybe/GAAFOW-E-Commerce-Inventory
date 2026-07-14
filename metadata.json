@@ -1,0 +1,6 @@
+{
+  "name": "GAAFOW E-Commerce & Inventory",
+  "description": "GAAFOW is a modern online shopping platform with a storefront, real-time stock tracking, payment proof uploading, and a powerful admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
